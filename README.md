@@ -19,3 +19,5 @@ Para ejecutar de modo normal ejectur `node pokeApi`
 Se esta trabajando la nueva versión para implementarse en TypeScript.
 
 1.- Prueba de agregar commit
+
+2.- Se agrega segundo texto
