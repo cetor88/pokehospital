@@ -18,6 +18,7 @@ npm install --save-dev tslint
 Para ejecutar de modo normal ejectur `node pokeApi`
 Se esta trabajando la nueva versión para implementarse en TypeScript.
 
+<<<<<<< HEAD
 1.- Prueba de agregar commit
 
 2.- Se agrega segundo texto
@@ -25,3 +26,6 @@ Se esta trabajando la nueva versión para implementarse en TypeScript.
 3.- Se agrega tercer texto
 
 4.- Se agrega cuarto texto
+=======
+1.- Prueba de agregar commit
+>>>>>>> parent of 9a08d87 (se agrega segundo texto)
